@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Go and Gin for backend development**
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-
 - 📫 How to reach me **tanay.verma98@gmail.com**
 
-- ⚡ Fun fact | parseInt(0.0000005) => 5 | Number(0.0000005) => 5e-7 | **JAVASCRIPT**  
+- 📝 If you are recuiter then please note. I just put here whatever is the latest that I am working on and whatever it is that I find interesting. This may or may not be the correct indicator of my skills
 
 <br/>  
 
